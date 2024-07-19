@@ -1,5 +1,5 @@
 {
-  "include": [],
+  "include": ["${configDir}/src/**/*"],
   "$schema": "https://json.schemastore.org/tsconfig",
   "compilerOptions": {
     "target": "esnext",
